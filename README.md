@@ -44,15 +44,19 @@
 
 ### Dataset overview
 
-- 
+- ![image](https://github.com/user-attachments/assets/97c9f215-831e-412c-8e78-c663b318b8f9)
+
 
 ### EDA
 
-- 
+- ![image](https://github.com/user-attachments/assets/a45718ef-fb88-4122-b47b-594656fa2587)
+
+- ![image](https://github.com/user-attachments/assets/8fcfeaba-8a68-43cc-9c1d-18b531eb6d85)
 
 ### Data Processing
 
--
+- target의 log transformation시도
+- ![image](https://github.com/user-attachments/assets/cfdff4ac-150d-46f5-8f3d-632337f247c5)
 
 ## 4. Modeling
 
