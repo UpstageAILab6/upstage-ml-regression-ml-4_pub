@@ -60,17 +60,17 @@
 ### Model descrition
 
 - 1. Randomforest regressor
-         dataset : Train_(918680,63) /  Validation_(183736,63)
-         중요한 feature TOP 3 : 전용면적, 권역, 매매지수
-         RMSE : 8860
+  - dataset : Train_(918680,63) /  Validation_(183736,63)
+  - 중요한 feature TOP 3 : 전용면적, 권역, 매매지수
+  - RMSE : 8860
 - 2. lightGBM regressor
-         dataset : Train_(86684,26) /  Validation_(21672,63)
-         중요한 feature TOP 3 : 계약년월, 전용면적, 층
-         RMSE : 13211.28
+  - dataset : Train_(86684,26) /  Validation_(21672,63)
+  - 중요한 feature TOP 3 : 계약년월, 전용면적, 층
+  - RMSE : 13211.28
 -3. Randomforest regressor
-         dataset : Train_(,50) /  Validation_(,50)
-         중요한 feature TOP 3 : 계약년월, 가까운공원ID, 평수
-         RMSE : 17874.81
+  - dataset : Train_(,50) /  Validation_(,50)
+  - 중요한 feature TOP 3 : 계약년월, 가까운공원ID, 평수
+  - RMSE : 17874.81
          
 ### Modeling Process
 
@@ -86,10 +86,10 @@
 
 
 - Randomforest regressor
-         dataset : Train_(918680,63) /  Validation_(183736,63)
-         중요한 feature TOP 3 : 전용면적, 권역, 매매지수
-         LOCAL RMSE : 8860
-         PUBLIC RMSE : 16406.0449
+  - dataset : Train_(918680,63) /  Validation_(183736,63)
+  - 중요한 feature TOP 3 : 전용면적, 권역, 매매지수
+  - LOCAL RMSE : 8860
+  - PUBLIC RMSE : 16406.0449
 
 ### Presentation
 
