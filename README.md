@@ -1,7 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pjJxrz8e)
 # Title (Please modify the title)
-## Team
-# Ravenclaw
+## Team Ravenclaw
 - 팀장 : 정혜린
 - 팀원 : 강태화, 정준성, 정인복
 
@@ -10,7 +9,9 @@
 - AI stages의 서버에 연결한 vscode
 
 ### Requirements
-- _Write Requirements_
+- numpy == 1.23.5
+- pandas == 1.5.3
+- scikit-learn == 1.2.2
 
 ## 1. Competiton Info
 
@@ -94,12 +95,11 @@
 
 - _Insert your presentaion file(pdf) link_
 
-## etc
-
-### Meeting Log
-
-- _Insert your meeting log link like Notion or Google Docs_
 
 ### Reference
+- https://developers.kakao.com/docs/latest/ko/local/dev-guide#search-by-keyword
+- https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1073
+- https://www.bigdata-forest.kr/product/PTP019701
+- https://www.k-apt.go.kr/web/board/webReference/boardList.do
 
 - _Insert related reference_
