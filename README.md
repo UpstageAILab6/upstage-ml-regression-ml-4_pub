@@ -31,8 +31,8 @@
 
 ### Timeline
 
-- ex) January 02, 2025 - Start Date
-- ex) January 07, 2025 - Final submission deadline
+- January 02, 2025 - Start Date
+- January 07, 2025 - Final submission deadline
 
 ## 2. Components
 
@@ -40,20 +40,19 @@
 
 - '/data/ephemeral/home/'
 
-
 ## 3. Data descrption
 
 ### Dataset overview
 
-- _Explain using data_
+- 
 
 ### EDA
 
-- _Describe your EDA process and step-by-step conclusion_
+- 
 
 ### Data Processing
 
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
+-
 
 ## 4. Modeling
 
@@ -93,7 +92,7 @@
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+- 
 
 
 ### Reference
@@ -101,5 +100,3 @@
 - https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1073
 - https://www.bigdata-forest.kr/product/PTP019701
 - https://www.k-apt.go.kr/web/board/webReference/boardList.do
-
-- _Insert related reference_
