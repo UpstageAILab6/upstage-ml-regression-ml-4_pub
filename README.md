@@ -9,7 +9,7 @@
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
+- AI stages의 서버에 연결한 vscode
 
 ### Requirements
 - _Write Requirements_
@@ -18,7 +18,12 @@
 
 ### Overview
 
-- _Write competition information_
+- 0) ML 알고리즘을 활용하여 미래의 매매가 예측을 통해 더욱 효율적인 부동산
+거래환경 조성 및 의사결정 제공
+- 1) 부동산 시장과 실거래가의 중요성 : 실거래가는 실제 시장에서 거래된
+가격을 뜻하므로, 실질적인 한국의 가계 정도 유추 가능
+- 2) ML 도입의 필요성 : 다차원적 요인 분석과 높은 예측 정확도를 통해 부동산
+시장을 보다 체계적으로 이해할 수 있는 가능성 제공
 
 ### Timeline
 
